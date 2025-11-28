@@ -1,0 +1,77 @@
+[
+    {
+        "id": "mod_survival_english",
+        "title": "Survival English",
+        "description": "Inglés esencial para tus primeras semanas en USA.",
+        "icon": "life-buoy",
+        "color": "primary",
+        "courses": [
+            {
+                "id": "c_airport",
+                "title": "At the Airport",
+                "description": "Vocabulario para migración y aduanas.",
+                "duration": "45 min",
+                "status": "completed",
+                "type": "vocabulary"
+            },
+            {
+                "id": "c_grocery",
+                "title": "Grocery Shopping",
+                "description": "Cómo pedir en el deli y pagar en caja.",
+                "duration": "30 min",
+                "status": "active",
+                "type": "interactive"
+            },
+            {
+                "id": "c_doctor",
+                "title": "Doctor's Appointment",
+                "description": "Expresar síntomas y entender recetas.",
+                "duration": "60 min",
+                "status": "locked",
+                "type": "roleplay"
+            }
+        ]
+    },
+    {
+        "id": "mod_us_culture",
+        "title": "US Culture & Adaptation",
+        "description": "Entendiendo cómo funciona la vida americana.",
+        "icon": "flag",
+        "color": "secondary",
+        "courses": [
+            {
+                "id": "c_school_system",
+                "title": "The School System",
+                "description": "Grades, GPA y actividades extracurriculares.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video"
+            },
+            {
+                "id": "c_holidays",
+                "title": "American Holidays",
+                "description": "Thanksgiving, 4th of July y tradiciones.",
+                "duration": "25 min",
+                "status": "locked",
+                "type": "reading"
+            }
+        ]
+    },
+    {
+        "id": "mod_grammar_fun",
+        "title": "Grammar for Real Life",
+        "description": "Estructuras gramaticales usadas en la calle.",
+        "icon": "puzzle",
+        "color": "accent",
+        "courses": [
+            {
+                "id": "c_slang",
+                "title": "Common Slang",
+                "description": "Gonna, Wanna, Gotta y más.",
+                "duration": "20 min",
+                "status": "locked",
+                "type": "quiz"
+            }
+        ]
+    }
+]
